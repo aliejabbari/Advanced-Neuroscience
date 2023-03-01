@@ -3,6 +3,7 @@
 ## Introduction
 
 In the first week of this course, we will explore the process by which information is represented and transmitted by neurons in the brain, known as neural coding. We will focus on how the presence of noise in neural circuits affects the encoding and processing of information, and how cortical circuits organize themselves to minimize the impact of noise.
+---
 
 ### Readings
 **The following papers are recommended for this week's readings:**
@@ -29,7 +30,7 @@ We will examine the firing patterns of cortical neurons and how they are affecte
 
 * **Optimization of neural codes**
 We will discuss the trade-off between neural codes that are simple and easy to interpret, versus codes that are more efficient and minimize the use of neural resources. The paper argues that the brain uses efficient codes to represent sensory information, and that these codes are optimized to match the statistical properties of the environment. Students will learn about the different criteria that can be used to evaluate neural codes, such as sparseness, selectivity, and decorrelation.
-
+---
 ### Conclusion
 By the end of this week, students will have gained a comprehensive understanding of neural coding, and how it is affected by noise, cortical organization, and the statistical properties of the environment. They will learn about the different models of neural coding, and how they can be tested experimentally using techniques such as electrophysiology and imaging.
 
