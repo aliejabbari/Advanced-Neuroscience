@@ -32,3 +32,4 @@ We will discuss the trade-off between neural codes that are simple and easy to i
 
 ### Conclusion
 By the end of this week, students will have gained a comprehensive understanding of neural coding, and how it is affected by noise, cortical organization, and the statistical properties of the environment. They will learn about the different models of neural coding, and how they can be tested experimentally using techniques such as electrophysiology and imaging.
+
