@@ -30,6 +30,10 @@ During the first week of the course, we will explore the process by which inform
 
 * [Dimensionality reduction for large-scale neural recordings by John P Cunningham & Byron M Yu](https://github.com/aliejabbari/Advanced-Neuroscience/blob/main/Neural%20Code%202%20(Week2)/Papers/Cunnungham_2014_Dimensionality%20reduction%20for%20large-scale%20neural%20recordings.pdf)
 
+### Readings: A [Jupiter notebook](https://github.com/aliejabbari/Advanced-Neuroscience/blob/main/Neural%20Code1%20(Week1)/Assignment/Assignment1.ipynb) that contains simulations and answers to questions
+These simulations contain useful information about this week's key concepts. 
+
+
 ---
 
 ## **Week 3: Noise Correlation**
