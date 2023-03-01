@@ -3,7 +3,7 @@
 
 
 
-**This is a graduate-level course in neuroscience that explores advanced topics in the field. The course is designed for students who have already completed a basic course in neuroscience and are interested in diving deeper into the subject matter. The course covers a range of topics related to neural coding, perception, and behavior.**
+**is is a graduate-level course in neuroscience offered by the Biomedical Engineering group at Sharif University of Technology and taught by Professor Ali Ghazizadeh. The course is designed for students who have already completed a basic course in neuroscience and are interested in exploring advanced topics in the field. Throughout the course, students will delve deeper into topics such as neural coding, perception, and behavior, gaining a more comprehensive understanding of the inner workings of the brain.**
 ---
 # Course Topics📃
 ---
