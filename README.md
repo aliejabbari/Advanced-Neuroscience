@@ -37,9 +37,9 @@ During the first week of the course, we will explore the process by which inform
 During the third week of the course, we will examine the phenomenon of noise correlation in neural circuits, where the activity of two or more neurons is correlated due to shared inputs or connectivity. We will explore the implications of noise correlation for neural coding and information processing, and discuss methods for measuring and manipulating noise correlation.
 
 ### Readings:
-* Stimulus onset quenches neural variability: a widespread cortical phenomenon by Mark M Churchland and Byron M Yu
+* [Stimulus onset quenches neural variability: a widespread cortical phenomenon by Mark M Churchland and Byron M Yu](https://github.com/aliejabbari/Advanced-Neuroscience/blob/main/Noise%20correlation%20(Week3)/Papers/(2010)Stimulus%20onset%20quenches%20neural%20variability.pdf)
 
-* Neural correlations, population coding and computation : Bruno B. Averbeck*, Peter E. Latham
+* [Neural correlations, population coding and computation : Bruno B. Averbeck*, Peter E. Latham](https://github.com/aliejabbari/Advanced-Neuroscience/blob/main/Noise%20correlation%20(Week3)/Papers/(2010)Stimulus%20onset%20quenches%20neural%20variability.pdf)
 
 ---
 
