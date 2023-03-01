@@ -14,7 +14,7 @@
 During the first week of the course, we will explore the process by which information is represented and transmitted by neurons in the brain, known as neural coding. We will focus on how the presence of noise in neural circuits affects the encoding and processing of information, and how cortical circuits organize themselves to minimize the impact of noise.
 
 ### Readings:
- * [Noise, neural codes and cortical organization by Michael N Shadlen and William T Newsome]((https://github.com/aliejabbari/Advanced-Neuroscience/blob/main/Neural%20Code1%20(Week1)/Papers/Shadlen%20%26%20Newsome%201994.pdf)
+ * [Noise, neural codes and cortical organization by Michael N Shadlen and William T Newsome](https://github.com/aliejabbari/Advanced-Neuroscience/blob/main/Neural%20Code1%20(Week1)/Papers/Shadlen%20%26%20Newsome%201994.pdf)
 
  * [Is there a signal in the noise? by Michael N Shadlen and William T Newsome](https://github.com/aliejabbari/Advanced-Neuroscience/blob/main/Neural%20Code1%20(Week1)/Papers/Shadlen1995.pdf)
 
