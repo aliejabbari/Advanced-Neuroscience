@@ -5,11 +5,8 @@
 
 **This is a graduate-level course in neuroscience that explores advanced topics in the field. The course is designed for students who have already completed a basic course in neuroscience and are interested in diving deeper into the subject matter. The course covers a range of topics related to neural coding, perception, and behavior.**
 ---
-
-# Course Topics
+# Course Topics📃
 ---
-
-
 
 
 ## **Week 1 and 2 : Neural Code**
