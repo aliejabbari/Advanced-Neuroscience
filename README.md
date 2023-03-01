@@ -14,21 +14,21 @@
 During the first week of the course, we will explore the process by which information is represented and transmitted by neurons in the brain, known as neural coding. We will focus on how the presence of noise in neural circuits affects the encoding and processing of information, and how cortical circuits organize themselves to minimize the impact of noise.
 
 ### Readings:
- * Noise, neural codes and cortical organization by Michael N Shadlen and William T Newsome
+ * [Noise, neural codes and cortical organization by Michael N Shadlen and William T Newsome]((https://github.com/aliejabbari/Advanced-Neuroscience/blob/main/Neural%20Code1%20(Week1)/Papers/Shadlen%20%26%20Newsome%201994.pdf)
 
- * Is there a signal in the noise? by Michael N Shadlen and William T Newsome
+ * [Is there a signal in the noise? by Michael N Shadlen and William T Newsome](https://github.com/aliejabbari/Advanced-Neuroscience/blob/main/Neural%20Code1%20(Week1)/Papers/Shadlen1995.pdf)
 
- * The Highly Irregular Firing of Cortical Cells Is Inconsistent with Temporal Integration of Random EPSPs
+ * [The Highly Irregular Firing of Cortical Cells Is Inconsistent with Temporal Integration of Random EPSPs](https://github.com/aliejabbari/Advanced-Neuroscience/blob/main/Neural%20Code1%20(Week1)/Papers/Softky%20%26%20Koch%201993.pdf)
 
- * Simple codes versus efficient codes by William R Softky
+ * [Simple codes versus efficient codes by William R Softky](https://github.com/aliejabbari/Advanced-Neuroscience/blob/main/Neural%20Code1%20(Week1)/Papers/Softky%201995.pdf)
 
- * Temporal Complexity and Heterogeneity of Single-Neuron Activity in Premotor and Motor Cortex by Mark M.Churchland and Krishna V. Shenoy
+ * [Temporal Complexity and Heterogeneity of Single-Neuron Activity in Premotor and Motor Cortex by Mark M.Churchland and Krishna V. Shenoy](https://github.com/aliejabbari/Advanced-Neuroscience/blob/main/Neural%20Code%202%20(Week2)/Papers/Churchland_Shenoy_2007_TemporalComplexityM1_Jneurophys.pdf)
 
-* Neural population dynamics during reaching by Mark M. Churchland  John P. Cunningham by Mark M. Churchland, John P. Cunningham
+* [Neural population dynamics during reaching by Mark M. Churchland  John P. Cunningham by Mark M. Churchland, John P. Cunningham](https://github.com/aliejabbari/Advanced-Neuroscience/blob/main/Neural%20Code%202%20(Week2)/Papers/Churchland_Shenoy_2012_Neural%20population%20dynamics%20movement_Nature.pdf)
 
-* Structure in neural population recordings: an expected byproduct of simpler phenomena? by Gamaleldin F Elsayed & John P Cunningham
+* [Structure in neural population recordings: an expected byproduct of simpler phenomena? by Gamaleldin F Elsayed & John P Cunningham](https://github.com/aliejabbari/Advanced-Neuroscience/blob/main/Neural%20Code%202%20(Week2)/Papers/Cunningham_2017_StructurePopulation_NatNeuro.pdf)
 
-* Dimensionality reduction for large-scale neural recordings by John P Cunningham & Byron M Yu
+* [Dimensionality reduction for large-scale neural recordings by John P Cunningham & Byron M Yu](https://github.com/aliejabbari/Advanced-Neuroscience/blob/main/Neural%20Code%202%20(Week2)/Papers/Cunnungham_2014_Dimensionality%20reduction%20for%20large-scale%20neural%20recordings.pdf)
 
 ---
 
