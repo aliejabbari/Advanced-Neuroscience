@@ -9,7 +9,7 @@
 ---
 
 
-## **Week 1 and 2 : Neural Code**
+## **Week [1](https://github.com/aliejabbari/Advanced-Neuroscience/tree/main/Neural%20Code1%20(Week1)) and [2](https://github.com/aliejabbari/Advanced-Neuroscience/tree/main/Neural%20Code%202%20(Week2)) : Neural Code**
 
 During the first week of the course, we will explore the process by which information is represented and transmitted by neurons in the brain, known as neural coding. We will focus on how the presence of noise in neural circuits affects the encoding and processing of information, and how cortical circuits organize themselves to minimize the impact of noise.
 
