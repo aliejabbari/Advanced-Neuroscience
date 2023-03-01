@@ -39,8 +39,7 @@ During the third week of the course, we will examine the phenomenon of noise cor
 ### Readings:
 * [Stimulus onset quenches neural variability: a widespread cortical phenomenon by Mark M Churchland and Byron M Yu](https://github.com/aliejabbari/Advanced-Neuroscience/blob/main/Noise%20correlation%20(Week3)/Papers/(2010)Stimulus%20onset%20quenches%20neural%20variability.pdf)
 
-* [Neural correlations, population coding and computation : Bruno B. Averbeck*, Peter E. Latham](https://github.com/aliejabbari/Advanced-Neuroscience/blob/main/Noise%20correlation%20(Week3)/Papers/(2010)Stimulus%20onset%20quenches%20neural%20variability.pdf)
-
+* [Neural correlations, population coding and computation : Bruno B. Averbeck*, Peter E. Latham](https://github.com/aliejabbari/Advanced-Neuroscience/blob/main/Noise%20correlation%20(Week3)/Papers/Pouget_Averbeck_2006._NeuralCorrelationPopulationCodingpdf.pdf)
 ---
 
 ## **Week 4: Causal Manipulation**
@@ -48,11 +47,11 @@ During the third week of the course, we will examine the phenomenon of noise cor
 During the fourth week of the course, we will explore methods for manipulating neural activity to establish causal relationships between brain activity and behavior. We will discuss the strengths and limitations of different methods, such as optogenetics and pharmacology, and examine the ethical implications of manipulating brain activity.
 
 ### Readings:
-* Millisecond-timescale, genetically targeted optical control of neural activity 
+* [Millisecond-timescale, genetically targeted optical control of neural activity](https://github.com/aliejabbari/Advanced-Neuroscience/blob/main/causal%20manipulation%20(Week4)/Papers/Diesseroth_Boyden_Optognetic_2005_NatureNeuro.pdf)
 
-* Transcranial Magnetic Stimulation: A Primer by Mark Hallett 
+* [Transcranial Magnetic Stimulation: A Primer by Mark Hallett](https://github.com/aliejabbari/Advanced-Neuroscience/blob/main/Noise%20correlation%20(Week3)/Papers/Pouget_Averbeck_2006._NeuralCorrelationPopulationCodingpdf.pdf)
 
-* A history of optogenetics: the development of tools for controlling brain circuits with light Edward S. Boyden
+* [A history of optogenetics: the development of tools for controlling brain circuits with light Edward S. Boyden](https://github.com/aliejabbari/Advanced-Neuroscience/blob/main/causal%20manipulation%20(Week4)/Papers/History%20of%20Optognetics_Boyden_2011.pdf)
 
 ---
 
@@ -62,17 +61,17 @@ During the fifth week of the course, we will examine the concept of travelling w
 
 ### Readings:
 
-* Propagating waves mediate information transfer
-in the motor cortex by Doug Rubino, Kay A Robbins & Nicholas G Hatsopoulos
+* [Propagating waves mediate information transfer
+in the motor cortex by Doug Rubino, Kay A Robbins & Nicholas G Hatsopoulos](https://github.com/aliejabbari/Advanced-Neuroscience/blob/main/Travelling%20Wave%20(Week5)/Papers/Hatsopoulos_Propagating%20waves%20on%20array.pdf)
 
-* The stimulus-evoked population response in visual
+* [The stimulus-evoked population response in visual
 cortex of awake monkey is a propagating wave
-Lyle Muller, Alexandre Reynaud
+Lyle Muller, Alexandre Reynaud](https://github.com/aliejabbari/Advanced-Neuroscience/blob/main/Travelling%20Wave%20(Week5)/Papers/Muller_2014_TravelWaveV1_NatComm.pdf)
 
-* Cortical travelling waves: mechanisms 
-and computational principles by Lyle Muller, Frédéric Chavane
+* [Cortical travelling waves: mechanisms 
+and computational principles by Lyle Muller, Frédéric Chavane](https://github.com/aliejabbari/Advanced-Neuroscience/blob/main/Travelling%20Wave%20(Week5)/Papers/Sejnowski_Cortical%20Traveling%20Waves%20Mechanisms%20and%20Computation.pdf)
 
-* Theta and alpha oscillations are traveling waves in the human neocortex by Honghui Zhang, Andrew J. Watrous
+* [Theta and alpha oscillations are traveling waves in the human neocortex by Honghui Zhang, Andrew J. Watrous](https://github.com/aliejabbari/Advanced-Neuroscience/blob/main/Travelling%20Wave%20(Week5)/Papers/Theta%20and%20alpha...%20Sup1.pdf)
 
 ---
 
@@ -82,7 +81,7 @@ During the sixth week of the course, we will explore the neural mechanisms under
 
 ### Readings:
 
-* Motivation concepts in behavioral neuroscience by Kent C. Berridge
+* [Motivation concepts in behavioral neuroscience by Kent C. Berridge]()
 
 * Uncertainty and Learning by Peter Dayan Angela J Yu
 ---
